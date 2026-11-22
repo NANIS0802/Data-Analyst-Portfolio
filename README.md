@@ -3,6 +3,11 @@
 <img width="1616" height="774" alt="Screenshot 2026-11-22 at 17 30 25" src="https://github.com/user-attachments/assets/4d62a7d3-7656-44c6-a249-aca4c1b004ff" />
 
 ## 📌 Project Overview
+<details>
+  <summary>👀 Click to view Raw Dataset Sample (12,500+ rows)</summary>
+  <br>
+  <img src="assets/raw_data_sample.png" alt="Raw Data Sample" width="100%">
+</details>
 This project analyzes a dataset of **12,500+ data-related job postings** to uncover key trends in compensation, job roles, employment types, and recruitment channels. The goal is to build an interactive Excel Dashboard that helps job seekers and recruiters make data-driven decisions.
 
 ## 🎯 Business Questions Answered
